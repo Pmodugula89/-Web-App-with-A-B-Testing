@@ -8,29 +8,27 @@ body {
 .container {
   width: 80%;
   margin: 0 auto;
-}
-
-header {
   text-align: center;
-  padding: 50px 0;
+  padding-top: 100px;
 }
 
 h1 {
   font-size: 36px;
+  margin-bottom: 10px;
 }
 
 p {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .button {
-  display: inline-block;
   padding: 10px 20px;
-  margin-top: 20px;
   background-color: #4CAF50;
   color: white;
-  text-decoration: none;
+  border: none;
+  font-size: 16px;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .button:hover {
