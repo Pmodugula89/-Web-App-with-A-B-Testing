@@ -21,5 +21,5 @@ This project demonstrates a simple web application where users are randomly assi
 
 1. Clone or download this repository to your local machine.
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AB-Testing-WebApp.git
+   git clone https://github.com/Pmodugula89/-Web-App-with-A-B-Testing
 # -Web-App-with-A-B-Testing
